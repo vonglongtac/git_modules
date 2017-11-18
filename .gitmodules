@@ -1,3 +1,7 @@
-[submodule "submodules\\1"]
-	path = submodules\\1
+[submodule "submodules/1"]
+	path = submodules/1
 	url = https://github.com/vonglongtac/git_module_a.git
+[submodule "submodules/3"]
+	path = submodules/3
+	url = https://github.com/vonglongtac/git_module_b.git
+	branch = develop
